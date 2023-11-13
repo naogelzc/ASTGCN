@@ -1,11 +1,11 @@
 # Prerequisite
 Nvidia GPU + Win11 + Windows Docker Desktop
 # Setup WSL with Win11
-`wslconfig /list // list all Distros`
+- List all Distros `wslconfig /list`
 
-`wsl.exe --install // install Ubuntu`
+- Install Ubuntu `wsl.exe --install`
 
-`wsl --setdefault Ubuntu // set Ubuntu as default`
+- Set Ubuntu as default `wsl --setdefault Ubuntu`
 
 ## Setup NVIDIA Container Toolkit
 - [install-guide](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html#installing-with-apt)
