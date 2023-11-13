@@ -1,5 +1,5 @@
 # Prerequisite
-Nvidia GPU + Win11 + Windows Docker Desktop
+Nvidia GPU Windows Driver + Win11 + Windows Docker Desktop
 # Setup WSL with Win11
 - List all Distros `wslconfig /list`
 
